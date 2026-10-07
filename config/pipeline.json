@@ -1,0 +1,9 @@
+{
+  "methods": "methods.json",
+  "extractors": "extractors.json",
+  "metadata": "../examples/info.json",
+  "input": {
+    "path": "../examples/measurements.csv",
+    "extractor": "csv_measurements"
+  }
+}

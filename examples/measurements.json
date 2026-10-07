@@ -1,0 +1,9 @@
+{
+  "measurements": [
+    {"value": 9}, {"value": 10}, {"value": 11},
+    {"value": 9}, {"value": 10}, {"value": 11},
+    {"value": 9}, {"value": 10}, {"value": 11},
+    {"value": 9}, {"value": 10}, {"value": 11},
+    {"value": 100}
+  ]
+}

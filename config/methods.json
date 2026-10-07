@@ -1,0 +1,8 @@
+{
+  "detectors": {
+    "tukey": {"factor": 1.5},
+    "zscore": {"threshold": 3.0, "ddof": 0},
+    "modified_zscore": {"threshold": 3.5, "scale": 0.6744897501960817}
+  },
+  "zero_spread": "flag_deviations"
+}

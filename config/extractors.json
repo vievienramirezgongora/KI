@@ -1,0 +1,14 @@
+{
+  "csv_measurements": {
+    "kind": "csv",
+    "field": "value",
+    "delimiter": ",",
+    "missing": "error"
+  },
+  "json_measurements": {
+    "kind": "json",
+    "field": "value",
+    "items_path": ["measurements"],
+    "missing": "error"
+  }
+}
